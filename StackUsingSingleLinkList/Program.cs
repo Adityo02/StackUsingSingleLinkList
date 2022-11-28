@@ -50,6 +50,7 @@ namespace StackUsingSingleLinkList
 
         public void display()
         {
+            node tmp;
 
         }
     }
